@@ -4,6 +4,7 @@
 ![VBA](https://img.shields.io/badge/VBA-239120?style=for-the-badge&logo=microsoft-visual-basic&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnaSofiaHinojosa&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
